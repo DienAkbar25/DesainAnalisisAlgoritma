@@ -17,6 +17,6 @@ Trip planner disusun berdasarkan:
 
 ---
 DAA_Kelompok1_KelasA
-- README.md        # Dokumentasi proyek
-- data.json        # Data 15 tempat wisata di Yogyakarta
-- run.ipynb        # Program utama (Layered Trip Planner Kahn vs DFS)
+- README.md        # **Dokumentasi Proyek**
+- data.json        # **Data 15 Tempat Wisata di Yogyakarta**
+- run.ipynb        # **Program Utama Trip Planner (Kahn vs DFS)**
