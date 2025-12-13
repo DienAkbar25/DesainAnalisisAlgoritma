@@ -4,9 +4,6 @@
 Repositori ini berisi implementasi dan analisis **perbandingan algoritma Topological Sort** menggunakan  
 **Kahn’s Algorithm** dan **Depth First Search (DFS)** pada kasus **Trip Planner**.
 
-Studi kasus difokuskan pada **perencanaan perjalanan dengan beberapa destinasi per hari**, yang secara alami
-membentuk struktur **Layered Directed Acyclic Graph (Layered DAG)**.
-
 ---
 
 ## 📌 Studi Kasus
