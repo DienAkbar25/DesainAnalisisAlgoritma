@@ -15,5 +15,8 @@ Trip planner disusun berdasarkan:
 - Urutan antar hari **harus terjaga**
 - Urutan dalam satu hari **fleksibel**
 
-Struktur ini **bukan linear murni** dan **bukan dense DAG**, melainkan **Layered DAG**, sehingga cocok
-untuk menguji performa algoritma topological sort dalam kondisi realistis.
+---
+📦 DAA_Kelompok1_KelasA
+┣ 📜 README.md # Dokumentasi proyek
+┣ 📄 data.json # Data 15 tempat wisata di Yogyakarta
+┗ 📓 run.ipynb # Program utama & eksperimen (Colab Notebook)
