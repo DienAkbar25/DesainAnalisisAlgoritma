@@ -13,8 +13,8 @@ membentuk struktur **Layered Directed Acyclic Graph (Layered DAG)**.
 Trip planner disusun berdasarkan:
 - Beberapa tempat wisata dikunjungi **dalam satu hari**
 - Urutan antar hari **harus terjaga**
-- Urutan dalam satu hari **fleksibel**
 
+## 📁 Struktur Repository
 ---
 DAA_Kelompok1_KelasA
 - README.md        # **Dokumentasi Proyek**
