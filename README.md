@@ -14,8 +14,9 @@ Trip planner disusun berdasarkan:
 - Beberapa tempat wisata dikunjungi **dalam satu hari**
 - Urutan antar hari **harus terjaga**
 
-## 📁 Struktur Repository
 ---
+
+## 📁 Struktur Repository
 DAA_Kelompok1_KelasA
 - README.md        # **Dokumentasi Proyek**
 - data.json        # **Data 15 Tempat Wisata di Yogyakarta**
